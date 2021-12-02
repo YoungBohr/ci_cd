@@ -1,0 +1,4 @@
+kubernetes~=18.20.0
+SQLAlchemy~=1.4.23
+setuptools~=57.4.0
+PyYAML~=5.4.1
